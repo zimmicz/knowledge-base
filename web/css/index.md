@@ -196,3 +196,6 @@ Specificity is calculated as follows:
 li:first-line /* a=0 b=0 c=0 d=1 -> specificity = 0,0,0,1 */
 ul li /* a=0 b=0 c=0 d=2 -> specificity = 0,0,0,2 */
 ul ol+li /* a=0 b=0 c=0 d=3 -> specificity = 0,0,0,3 */
+
+## Box model
+TODO: https://www.w3.org/TR/CSS22/box.html
