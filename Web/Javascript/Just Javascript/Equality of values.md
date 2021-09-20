@@ -70,4 +70,16 @@ console.log(Object.is(width, height)); // false
 ### Coding exercise
 **Write a function called `strictEquals(a, b)` that returns the same value as `a === b`. Your implementation must not use the `===` or `!==` operators.**
 
-Answer is at https://gist.github.com/gaearon/08a85a33e3d08f3f2ca25fb17bd9d638?ck_subscriber_id=1182441437
+```
+const strictEquals = (a, b) => {
+	if (Number.isNaN(a) || Number.isNaN(b)) {
+		return false;
+	}
+	
+	if ((Object.is(a, 0) && Object.is(b, -0)) || (Object.is(a, -0) && Object.is(b, 0)) {
+	return true;
+	}
+	
+	return Object.is(a, b);
+}
+```

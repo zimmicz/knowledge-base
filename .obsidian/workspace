@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Javascript/Just Javascript/Equality of values.md",
+            "file": "Web/Javascript/Just Javascript/Mutations.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ea713c90680cbc56",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Javascript/Just Javascript/Mutations.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Javascript/Just Javascript/Equality of values.md",
+                "file": "Web/Javascript/Just Javascript/Mutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "a74bf4fa7de31739",
   "lastOpenFiles": [
+    "Web/Javascript/Just Javascript/Mutations.md",
+    "Web/Javascript/Just Javascript/Values and variables.md",
+    "Web/Javascript/Just Javascript/Properties.md",
     "Web/Javascript/Just Javascript/Untitled.md",
+    "Web/Javascript/Just Javascript/Equality of values.md",
     "Web/Javascript/Just Javascript/Functions.md",
     "Web/Javascript/Just Javascript/Basics.md",
     "Web/Javascript/Just Javascript/Objects.md",
     "Web/Javascript/Just Javascript/Symbols.md",
-    "Web/Javascript/Just Javascript/Strings.md",
-    "Web/Javascript/Just Javascript/BigInts.md",
-    "Web/Javascript/Just Javascript/Numbers.md",
-    "Web/Javascript/Just Javascript/Null.md",
-    "Web/Javascript/Just Javascript/Undefined.md"
+    "Web/Javascript/Just Javascript/Strings.md"
   ]
 }
