@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "86a1fc6eddaee497",
+    "type": "split",
+    "children": [
+      {
+        "id": "a74bf4fa7de31739",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Javascript/Just Javascript/Equality of values.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d22717b98ef6a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f6c0bd2cd13360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d66383ecf52ff55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9ec0d758118ea58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "343aa287d271f0a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8162323f617b8d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca5bc2e1993154c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/Javascript/Just Javascript/Equality of values.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a74bf4fa7de31739",
+  "lastOpenFiles": [
+    "Web/Javascript/Just Javascript/Untitled.md",
+    "Web/Javascript/Just Javascript/Functions.md",
+    "Web/Javascript/Just Javascript/Basics.md",
+    "Web/Javascript/Just Javascript/Objects.md",
+    "Web/Javascript/Just Javascript/Symbols.md",
+    "Web/Javascript/Just Javascript/Strings.md",
+    "Web/Javascript/Just Javascript/BigInts.md",
+    "Web/Javascript/Just Javascript/Numbers.md",
+    "Web/Javascript/Just Javascript/Null.md",
+    "Web/Javascript/Just Javascript/Undefined.md"
+  ]
+}

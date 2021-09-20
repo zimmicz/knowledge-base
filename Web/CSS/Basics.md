@@ -196,6 +196,46 @@ Specificity is calculated as follows:
 li:first-line /* a=0 b=0 c=0 d=1 -> specificity = 0,0,0,1 */
 ul li /* a=0 b=0 c=0 d=2 -> specificity = 0,0,0,2 */
 ul ol+li /* a=0 b=0 c=0 d=3 -> specificity = 0,0,0,3 */
+```
 
 ## Box model
-TODO: https://www.w3.org/TR/CSS22/box.html
+
+CSS box model describes the rectangular boxes generated for elements in the document tree.
+
+### Box dimensions
+
+Each box has a **content area** (e.g. text, image), optional surrouding **padding**, **border** and **margin** areas. Vertical margins collapse (even though there are exceptions to this), while horizontal margins never collapse.
+
+![box model](https://www.w3.org/TR/CSS22/images/boxdim.png)
+
+The perimeter of each of the four areas (content, padding, border, and margin) is called an "edge", so each box has four edges:
+
+* content edge or inner edge: The content edge surrounds the rectangle given by the width and height of the box, which often depend on the element's rendered content. The four content edges define the box's content box.
+
+* padding edge: The padding edge surrounds the box padding. If the padding has 0 width, the padding edge is the same as the content edge. The four padding edges define the box's padding box.
+
+* border edge: The border edge surrounds the box's border. If the border has 0 width, the border edge is the same as the padding edge. The four border edges define the box's border box.
+
+* margin edge or outer edge: The margin edge surrounds the box margin. If the margin has 0 width, the margin edge is the same as the border edge. The four margin edges define the box's margin box.
+
+## Visual formatting model
+
+In the visual formatting model, each element in the document tree generates zero or more boxes according to the box model.
+
+### The viewport
+
+UA offer users a viewport through which users consult a document. When the viewport is smaller than the area of canvas on which the document is rendered, the UA should offer a scrolling mechanism.
+
+### Containing blocks
+
+Generated boxes act as containing blocks for descendant boxes.
+
+### Positioning schemes
+
+A box may be laid out according to three positioning schemes:
+
+* normal flow - includes block formatting, inline formatting and relative positioning
+* floats
+* absolute positioning
+
+# TODO https://www.w3.org/TR/CSS22/visuren.html#layers
