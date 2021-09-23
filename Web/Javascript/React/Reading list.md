@@ -1,0 +1,2 @@
+- https://imkev.dev/react-reconciliation-performance-measures
+- https://imkev.dev/react-rendering-order
