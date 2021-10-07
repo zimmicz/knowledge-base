@@ -10,26 +10,41 @@ const useToggle = () => {
 }
 ```
 
-Although this looks ok, it hides a lot of trouble:
-1. `toggle` function is different on every render
-	
-`useCallback` might sort this issue out:
-	
-		```
+Although this looks ok, it hides a lot of trouble. `toggle` function is different on every render. `useCallback` might sort this issue out:
+```javascript
 	const useToggle = () => {
 	const [on, setOn] = React.useState(false);
 	
-	const toggle = () => setOn(!on);
+	const toggle = React.useCallback(
+		() => setOn(!on),
+		[on]
+	);
 	
 	return [on, toggle];
-}```
+}
+```
 
-2. hello world
-3. 
+**However, this will not work**, because `on` change effectively changes the result of `useCallback`, and that leads to infinite loop.
+
+Using functional update completely removes the dependency on `on` value. **This will work just fine**, because the `useCallback` stays the same.
+
+```javascript
+	const useToggle = () => {
+	const [on, setOn] = React.useState(false);
+	
+	const toggle = React.useCallback(
+		() => setOn(v => !v),
+		[]
+	);
+	
+	return [on, toggle];
+}
+```
+
+Run this code to see it break.
 
 ```jsx
 import React from "react";
-
   
 const useToggle = () => {
 	const [on, setOn] = React.useState(false);
