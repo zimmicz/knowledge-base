@@ -1,4 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Web/Javascript/Just Javascript/assets"
+  "attachmentFolderPath": "Web/Javascript/Just Javascript/assets",
+  "promptDelete": false
 }
