@@ -4,7 +4,7 @@
 const useToggle = () => {
 	const [on, setOn] = React.useState(false);
 	
-	const toggle = () => setToggle(!on);
+	const toggle = () => setOn(!on);
 	
 	return [on, toggle];
 }
