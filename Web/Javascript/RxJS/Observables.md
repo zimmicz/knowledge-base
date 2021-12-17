@@ -27,4 +27,10 @@ Promises are the most common type of Push system in JavaScript today. A Promise 
 -   A **Promise** is a computation that may (or may not) eventually return a single value.
 -   An **Observable** is a lazily evaluated computation that can synchronously or asynchronously return zero to (potentially) infinite values from the time it's invoked onwards.
 
-Observables are lazy computations, until they are 
+Observables are lazy computations, until they are "called" (with `subscribe`), they won't be executed. On top of that, two Observable subscribes trigger two separate side effects.
+
+> Subscribing to an Observable is analogous to calling a Function.
+
+> Observables are able to deliver values either synchronously or asynchronously.
+
+**The big difference between Observables and Functions is that Observables can return multiple values over time.**
