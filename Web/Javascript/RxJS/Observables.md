@@ -49,3 +49,18 @@ const observable = new Observable(subscriber => {
 ## Subscribing to Observables
 ```
 observable.subscribe(x => console.log(x));
+```
+
+> Subscribing to an Observable is like calling a function, providing callbacks where the data will be delivered to.
+
+This is drastically different to event handler API using `addEventListener/removeEventListener`. With `observable.subscribe`, the given Observer is not registered as a listener in the Observable. The Observable does not even maintain a list of attached Observers.
+
+## Executing Observables
+The execution produces multiple values over time, either synchronously or asynchronously.
+
+There are three types of values an Observable Execution can deliver:
+-   "Next" notification: sends a value such as a Number, a String, an Object, etc.
+-   "Error" notification: sends a JavaScript Error or exception.
+-   "Complete" notification: does not send a value.
+
+## Disposing Observable Executions
