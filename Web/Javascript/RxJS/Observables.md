@@ -34,3 +34,18 @@ Observables are lazy computations, until they are "called" (with `subscribe`), t
 > Observables are able to deliver values either synchronously or asynchronously.
 
 **The big difference between Observables and Functions is that Observables can return multiple values over time.**
+
+## Creating Observable
+```
+import { Observable } from 'rxjs';
+
+const observable = new Observable(subscriber => {
+	setInterval(() => {
+		subscriber.next('hi');
+	}, 1000);
+});
+```
+
+## Subscribing to Observables
+```
+observable.subscribe(x => console.log(x));
