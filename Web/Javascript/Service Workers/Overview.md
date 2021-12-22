@@ -9,6 +9,12 @@ They:
 If successful, service worker will be downloaded to the client and attempt to install/activate.
 
 ## Download, install and activate
-SW is immediately downloaded when a user first accesses a SW-controlled site/page. After that, it is updated when:
+SW is immediately downloaded when a user first accesses a SW-controlled site/page. After that, **it is updated when**:
 - a navigation to in-scope page occurs
 - an event is fired on the SW and it hasn't been downloaded in last 24 hours
+
+**It is installed when**:
+- the downloaded file is new (byte-wise compared)
+- first SW encountered for this page/site
+
+First time the SW has been made available, installation is attempted and then
