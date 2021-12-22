@@ -88,7 +88,7 @@ const sub2 = observable.subscribe(value => {
 sub1.unsubscribe();
 sub2.unsubscribe();
 ```
-When `observable.subscribe` is called, the [[Overview#^3abcc2|Observer]] gets attached to the newly created Observable execution. This call also returns a [[Overview#^7bf096|Subscription]] object.
+When `observable.subscribe` is called, the [[Web/Javascript/RxJS/Overview#^3abcc2|Observer]] gets attached to the newly created Observable execution. This call also returns a [[Web/Javascript/RxJS/Overview#^7bf096|Subscription]] object.
 
 Each observable must define how to dispose resources:
 - either by using the default unsubscribe function returned from `observable.subscribe`
