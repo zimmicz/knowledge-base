@@ -17,4 +17,9 @@ SW is immediately downloaded when a user first accesses a SW-controlled site/pag
 - the downloaded file is new (byte-wise compared)
 - first SW encountered for this page/site
 
-First time the SW has been made available, installation is attempted and then
+First time the SW has been made available, installation is attempted and then it is activated.
+
+## What happens when existing SW is encountered
+- new SW version is installed in the background
+- **it is not activated yet** (worker in waiting)
+- it is only activated when 
