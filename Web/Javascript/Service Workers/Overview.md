@@ -21,5 +21,7 @@ First time the SW has been made available, installation is attempted and then it
 
 ## What happens when existing SW is encountered
 - new SW version is installed in the background
-- **it is not activated yet** (worker in waiting)
-- it is only activated when 
+- **it is not activated yet** (*worker in waiting*)
+- it is only activated when there are no longer any pages loaded still using the old SW
+- as soon as there are no more pages to be loaded, the new SW activates (becoming the *active worker*)
+- 
