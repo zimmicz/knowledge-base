@@ -6,3 +6,7 @@ Green Deal will transform the EU into a modern economy, ensuring:
 - no person and no place left behind
 
 **One third of the 1.8 trillion euro** investments from the NextGenerationEU Recovery Plan, and the EU's seven-year budget will finance the European Green Deal.
+
+Intermediate step is **"Fit for 55"** plan to reduce net emission of greenhouse gasses by 55 % by 2030.
+
+## Fit for 55
