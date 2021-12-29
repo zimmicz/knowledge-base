@@ -19,4 +19,16 @@ Balíček obsahuje tyto legislativní návrhy a politické iniciativy:
 - revidovat rezervu tržní stability, tak aby mohla i nadále zajišťovat stabilní a dobře fungující systému EU ETS
 
 ### Cíle členských států v oblasti snižování emisí
-- 
+
+### Emisní normy CO2 pro osobní automobily a dodávky
+
+- do roku 2035 redukovat emise o 100 % -> od roku 2035 již nebude možné na trh uvádět osobní automobily nebo dodávky se spalovacím motorem
+
+### Zdanění energie
+
+- cílem je sladit zdanění energetických produktů a elektřiny s politikami v oblasti energetiky, ŽP a klimatu
+- cílem je ochránit a zlepšit vnitřní trh EU
+- cílem je zachovat schopnost vytvářet příjmy pro rozpočty členských států
+
+## Sources
+[1] https://www.consilium.europa.eu/cs/policies/green-deal/eu-plan-for-a-green-transition/
