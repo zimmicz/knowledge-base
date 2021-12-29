@@ -1,3 +1,5 @@
+Green Deal was announced by European Commission in December 2019.
+
 Green Deal will transform the EU into a modern economy, ensuring:
 - no net emissions of greenhouse gases by 2050
 - economic growth decoupled from resource use
