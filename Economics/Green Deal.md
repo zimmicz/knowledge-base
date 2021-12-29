@@ -10,3 +10,13 @@ Green Deal will transform the EU into a modern economy, ensuring:
 Intermediate step is **"Fit for 55"** plan to reduce net emission of greenhouse gasses by 55 % by 2030.
 
 ## Fit for 55
+Balíček obsahuje tyto legislativní návrhy a politické iniciativy:
+### Systém EU pro obchodování s emisemi (EU ETS)
+- zahrnout do systému emise z námořní dopravy
+- ukončit přidělování bezplatných povolenek letectví a dalším odvětvím
+- zavést celosvětový program kompenzace a snižování emisí v mezinárodním civilním letectví
+- navýšit prostředky dostupné z Modernizačního fondu a Inovačního fondu
+- revidovat rezervu tržní stability, tak aby mohla i nadále zajišťovat stabilní a dobře fungující systému EU ETS
+
+### Cíle členských států v oblasti snižování emisí
+- 
