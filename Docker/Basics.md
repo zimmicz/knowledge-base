@@ -12,4 +12,9 @@ They are the "source code" for containers.
 
 ## containers
 - can contain one or more running processes
-- 
+- they are the running or execution aspect of Docker
+
+A container is:
+- an image format
+- a set of standard operations
+- an execution environment
