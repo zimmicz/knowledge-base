@@ -5,8 +5,9 @@ Zkratky:
 - ZZ -> zdravotnické zařízení
 
 - pomáhají ZZ financovat rozvoj (až do 100 % hodnoty nemovitosti)
-- od ZZ odkoupí nemovitost, kterou jim dlouhodobě pronajmou zpět a zisk z prodeje dostane provozovatel ZZ
+- od ZZ odkoupí nemovitost, kterou jim dlouhodobě (10-20 let) pronajmou zpět a zisk z prodeje dostane provozovatel ZZ
 - za provoz a údržbu je pořád zodpovědný provozovatel ZZ
+- inflační doložky v nájemních smlouvách
 
 - 440 zařízeni
 - $22 mld (z toho $13 mld v USA)
