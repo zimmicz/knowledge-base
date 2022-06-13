@@ -13,5 +13,6 @@ Zkratky:
 - $22 mld (z toho $13 mld v USA)
 - 10 zemí
 - 46 000 lůžek
+- vyplácí dividendu od 2011
 
 ![[Pasted image 20220613143316.png]]
