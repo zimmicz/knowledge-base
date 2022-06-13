@@ -9,7 +9,7 @@ Zkratky:
 - za provoz a údržbu je pořád zodpovědný provozovatel ZZ
 
 - 440 zařízeni
-- $22 mld
+- $22 mld (z toho $13 mld v USA)
 - 10 zemí
 - 46 000 lůžek
 
