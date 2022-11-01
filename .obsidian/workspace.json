@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e07f0d18ab654d95",
+            "id": "011f8c02a39435f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level.works/Stories/LEV-224.md",
+                "file": "Level.works/Improvements/useDialog.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a1809454b84b7ca3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level.works/Stories/LEV-224.md",
+                "file": "Level.works/Improvements/useDialog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +98,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a1809454b84b7ca3",
+  "active": "011f8c02a39435f3",
   "lastOpenFiles": [
+    "Level.works/Improvements/useDialog.md",
     "Level.works/OGP/Autentizace.md",
+    "Level.works/Knowledge.share/Form API.md",
+    "Level.works/Knowledge.share/MSW.md",
     "Web/Javascript/Closure.md",
     "Web/Javascript/Service Workers/Overview.md",
     "Web/Javascript/React/Reading list.md",
     "Web/Javascript/React/useState/Functional updates.md",
     "Stocks/MPW.md",
-    "Untitled.md",
-    "Docker/Basics.md",
-    "Web/CSS/Position/Sticky.md",
-    "Economics/Green Deal.md"
+    "Untitled.md"
   ]
 }
