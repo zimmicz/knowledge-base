@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "3d1b957d5213c125",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e5c59a30b53555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e07f0d18ab654d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level.works/Stories/LEV-224.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1809454b84b7ca3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bfaed27ff61aafc",
+    "type": "split",
+    "children": [
+      {
+        "id": "92bbd09c96cbeeb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246cc3b7bae67a6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04425cf5f507ffa3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "068386d219a3706c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfd99a2f41628715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41e1bfd71f06e5dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Level.works/Stories/LEV-224.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a1809454b84b7ca3",
+  "lastOpenFiles": [
+    "Level.works/OGP/Autentizace.md",
+    "Web/Javascript/Closure.md",
+    "Web/Javascript/Service Workers/Overview.md",
+    "Web/Javascript/React/Reading list.md",
+    "Web/Javascript/React/useState/Functional updates.md",
+    "Stocks/MPW.md",
+    "Untitled.md",
+    "Docker/Basics.md",
+    "Web/CSS/Position/Sticky.md",
+    "Economics/Green Deal.md"
+  ]
+}
