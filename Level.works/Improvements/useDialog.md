@@ -25,13 +25,14 @@ const MyComponent = () => {
 ```
 
 ``` js
-const ConfirmationDialog = () => {
+const ConfirmationDialog = (props) => {
   const dialog = Dialog.useDialog();
 
 	return (
-		<Dialog>
+		<Dialog {...props}>
 			<Dialog.Title>Confirm me</Dialog.Title>
-			<Dialog.Content>
+			<Dialog.Content>Content</Dialog.Content>
+		</Dialog>
 	)
 }
 ```
