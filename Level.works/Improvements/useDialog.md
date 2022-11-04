@@ -23,3 +23,15 @@ const MyComponent = () => {
 	</>)
 }
 ```
+
+``` js
+const ConfirmationDialog = () => {
+  const dialog = Dialog.useDialog();
+
+	return (
+		<Dialog>
+			<Dialog.Title>Confirm me</Dialog.Title>
+			<Dialog.Content>
+	)
+}
+```
