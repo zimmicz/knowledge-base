@@ -17,7 +17,7 @@ const MyComponent = () => {
 		<Dialog.Content>Content</Dialog.Content>
 		<Dialog.Actions
 			confirm={<Dialog.Button onClick={() => {dialog.close()}}>ok</Dialog.Button>}
-			cancel={<Dialog.Button>cancel</Dialog.Button>}
+			cancel={<Dialog.Button onClick={() => { dialog.close()}}>cancel</Dialog.Button>}
 		/>
 	</Dialog>
 	</>)
