@@ -20,6 +20,10 @@ const MyComponent = () => {
 			cancel={<Dialog.Button onClick={() => { dialog.close()}}>cancel</Dialog.Button>}
 		/>
 	</Dialog>
+	<ConfirmationDialog>
+		<ConfirmationDialog.Title>Title</ConfirmationDialog.Title>
+		<ConfirmationDialog.Content>lorem ipsum dolor sit amet</ConfirmationDialog.Content>
+	</ConfirmationDialog>
 	</>)
 }
 ```
