@@ -8,10 +8,12 @@
 const MyComponent = () => {
 	
 	const dialog = Dialog.useDialog();
+	const prompt = Dialog.useDialog();
 	
 	return (
 	<>
 	<button onClick={() => dialog.open()}
+	
 	<Dialog open={dialog.isOpen} onClose={dialog.close}>
 		<Dialog.Title>Title</Dialog.Title>
 		<Dialog.Content>Content</Dialog.Content>
@@ -20,16 +22,21 @@ const MyComponent = () => {
 			cancel={<Dialog.Button onClick={() => { dialog.close()}}>cancel</Dialog.Button>}
 		/>
 	</Dialog>
-	<ConfirmationDialog>
-		<ConfirmationDialog.Title>Title</ConfirmationDialog.Title>
-		<ConfirmationDialog.Content>lorem ipsum dolor sit amet</ConfirmationDialog.Content>
-	</ConfirmationDialog>
+	
+	<Prompt open={prompt.isOpen} onClose={prompt.close}>
+		<Prompt.Title>Title</Prompt.Title>
+		<Prompt.Content>lorem ipsum dolor sit amet</Prompt.Content>
+		<Prompt.Confirm>ok</Prompt.Confirm>
+		<Prompt.Cancel>cancel</Prompt.Cancel>
+	</Prompt>
+
+	<Not
 	</>)
 }
 ```
 
 ``` js
-const ConfirmationDialog = (props) => {
+const Prompt = (props) => {
   const dialog = Dialog.useDialog();
 
 	return (
