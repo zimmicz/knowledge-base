@@ -9,6 +9,7 @@ const MyComponent = () => {
 	
 	const dialog = Dialog.useDialog();
 	const prompt = Dialog.useDialog();
+	const notify = Dialog.useDialog();
 	
 	return (
 	<>
@@ -30,7 +31,7 @@ const MyComponent = () => {
 		<Prompt.Cancel>cancel</Prompt.Cancel>
 	</Prompt>
 
-	<Not
+	<Notify open={notify.isOpen} onClose={notify.close}>Hello world</Notify>
 	</>)
 }
 ```
@@ -41,8 +42,18 @@ const Prompt = (props) => {
 
 	return (
 		<Dialog {...props}>
-			<Dialog.Title>Confirm me</Dialog.Title>
-			<Dialog.Content>Content</Dialog.Content>
+			{children}
+		</Dialog>
+	)
+}
+
+const Notify = () => {
+	return (
+		<Dialog {...props}>
+		{children}
+		<Dialog.Actions>
+			<Button>close</Button>
+		</Dialog.Actions>
 		</Dialog>
 	)
 }
