@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e9fa4c4fc759b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level.works/OGP/PRs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level.works/OGP/Time and date.md",
+                "file": "Level.works/OGP/PRs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5bb0b9884d5be785",
+  "active": "2e9fa4c4fc759b61",
   "lastOpenFiles": [
+    "Level.works/OGP/Time and date.md",
     "Level.works/Improvements/useDialog.md",
     "Level.works/Regression testing.md",
     "Level.works/Stories/LEV-224.md",
@@ -118,7 +131,6 @@
     "Level.works/OGP/Autentizace.md",
     "Web/Javascript/Closure.md",
     "Web/Javascript/Service Workers/Overview.md",
-    "Web/Javascript/React/Reading list.md",
-    "Web/Javascript/React/useState/Functional updates.md"
+    "Web/Javascript/React/Reading list.md"
   ]
 }
