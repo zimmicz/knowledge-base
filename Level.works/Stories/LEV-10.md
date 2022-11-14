@@ -3,7 +3,7 @@ Implemented in a feature branch!
 ## Subtasks
 [Database] Migration for `flexpoolOnly` column with default `false`
 [Backend] Deliver `flexpoolOnly` flag to shift planning, job list and shift detail in OGP and shift create/edit form
-[Frontend] Display `flexpoolOnly` icon on job card, shift detail, shift card on planning and shift create/edit form
+	[Frontend] Display `flexpoolOnly` icon on job card, shift detail, shift card on planning and shift create/edit form
 [Backend] Let `JobService.create` accept `flexpoolOnly` flag
 [Frontend] Create toggle on shift creation with the default value of `false`
 [Backend] Create `makeJobFlexpoolOnlyService` that is going to be run as part of `JobService.update`, because we want ES (?)
