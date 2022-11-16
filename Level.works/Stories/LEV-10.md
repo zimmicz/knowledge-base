@@ -10,7 +10,5 @@ Implemented in a feature branch!
 [Frontend] Create toggle on shift edit with the default value coming from the backend
 [Backend] Fail new shift application on `flexpoolOnly` job automatically (edge case)
 [Backend] Create integration tests for `flexpoolOnly` flag on **controller** level (test controller.method)
-- https://miro.com/app/board/uXjVPLFWLv4=/?moveToWidget=3458764537085526742&cot=14
-- https://miro.com/app/board/uXjVPLFWLv4=/?moveToWidget=3458764537085770802&cot=14
-- https://miro.com/app/board/uXjVPLFWLv4=/?moveToWidget=3458764537086001542&cot=14
+ ;com
 [App] hide shifts for flexpoolOnly jobs from non-members of flexpool
