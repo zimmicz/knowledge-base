@@ -7,7 +7,7 @@
 - layouts can be used to show different sidebars as well
 
 ## How to
-- icons barrel file
+- ~~icons barrel file~~
 - visibleOnRoutes not needed anymore
 - Sidebar will provide context open/closed
 - companyRelativePrefix export not needed
