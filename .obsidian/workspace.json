@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level.works/Stories/LEV-650 Redesign navigation OGP.md",
+                "file": "Web/CSS/Position/Sticky.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level.works/Stories/LEV-650 Redesign navigation OGP.md",
+                "file": "Web/CSS/Position/Sticky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "5d0dee99f3feed70",
   "lastOpenFiles": [
+    "Web/CSS/Basics.md",
+    "Web/CSS/Position/Sticky.md",
+    "Level.works/Stories/LEV-650 Redesign navigation OGP.md",
     "Level.works/Improvements/Github actions.md",
     "Level.works/Improvements/useDialog.md",
     "Level.works/OGP/Time and date.md",
     "Level.works/Stories/LEV-10.md",
     "Level.works/OGP/PRs.md",
-    "Level.works/Stories/LEV-650 Redesign navigation OGP.md",
     "Level.works/Regression testing.md",
-    "Level.works/Stories/LEV-224.md",
-    "Level.works/Knowledge.share/Form API.md",
-    "Level.works/Knowledge.share/MSW.md"
+    "Level.works/Stories/LEV-224.md"
   ]
 }
