@@ -9,9 +9,9 @@
 ## How to
 - ~~icons barrel file~~
 - ~~visibleOnRoutes not needed anymore~~
-- Sidebar will provide context open/closed
-- companyRelativePrefix export not needed
-- new EnvironmentInfo component
-- new MenuItem component
+- ~~Sidebar will provide context open/closed
+- ~~companyRelativePrefix export not needed
+- ~~new EnvironmentInfo component
+- ~~new MenuItem component
 	- label
 	- icon
