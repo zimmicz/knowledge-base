@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Javascript/Closure.md",
-                "mode": "preview",
+                "file": "Web/Typescript/Patterns.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,15 +129,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9e0366f9c797a435",
+  "active": "370f4b42cc344eb1",
   "lastOpenFiles": [
-    "Web/Typescript.md",
-    "Web/Typescript/Patterns.md",
-    "Web/Typescript",
     "Web/Javascript/Closure.md",
+    "Level.works/Improvements/Github actions.md",
+    "Web/Typescript/Patterns.md",
+    "Web/Typescript.md",
+    "Web/Typescript",
     "Web/Javascript/Just Javascript/Basics.md",
     "Web/CSS/Tips and tricks.md",
-    "Level.works/Improvements/Github actions.md",
     "Level.works/OGP/Time and date.md",
     "Level.works/OGP/PRs.md",
     "Level.works/OGP/Autentizace.md",
