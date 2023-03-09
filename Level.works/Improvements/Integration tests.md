@@ -1,3 +1,3 @@
-- clone database for every test suit
-- teardown the database after the tests are run
-- stop using `--runInBand`
+- ~~clone database for every test suit~~
+- ~~teardown the database after the tests are run~~
+- ~~stop using `--runInBand`~~
