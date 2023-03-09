@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "370f4b42cc344eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Javascript/Closure.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e0366f9c797a435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Typescript/Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level.works/Improvements/Github actions.md",
+                "file": "Web/Typescript/Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,14 +129,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "98bb63dffbb2db06",
+  "active": "9e0366f9c797a435",
   "lastOpenFiles": [
+    "Web/Typescript.md",
+    "Web/Typescript/Patterns.md",
+    "Web/Typescript",
+    "Web/Javascript/Closure.md",
+    "Web/Javascript/Just Javascript/Basics.md",
+    "Web/CSS/Tips and tricks.md",
+    "Level.works/Improvements/Github actions.md",
     "Level.works/OGP/Time and date.md",
     "Level.works/OGP/PRs.md",
     "Level.works/OGP/Autentizace.md",
     "Level.works/Knowledge.share/MSW.md",
     "Level.works/Knowledge.share/Form API.md",
-    "Level.works/Improvements/Github actions.md",
     "Level.works/Stories/LEV-650 Redesign navigation OGP.md",
     "Level.works/Improvements/useDialog.md",
     "Level.works/Improvements/Integration tests.md",
