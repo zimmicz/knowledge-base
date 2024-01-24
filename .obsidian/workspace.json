@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Typescript/Patterns.md",
+                "file": "Web/Javascript/RxJS/Observers.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Typescript/Patterns.md",
+                "file": "Web/Javascript/RxJS/Observers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +119,10 @@
   },
   "active": "370f4b42cc344eb1",
   "lastOpenFiles": [
-    "Level.works/Improvements/Github actions.md",
+    "Web/Javascript/RxJS/Observables.md",
+    "Web/Javascript/RxJS/Observers.md",
     "Web/Typescript/Patterns.md",
+    "Level.works/Improvements/Github actions.md",
     "Web/Javascript/Closure.md",
     "Web/Typescript.md",
     "Web/Typescript",
